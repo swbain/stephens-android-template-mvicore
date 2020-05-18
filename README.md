@@ -1,6 +1,6 @@
 # stephen's android template
 
-This a template based on [stephen's android template](https://github.com/swbain/stephens-android-template) to bootstrap android development using MVVM and Kotlin Coroutines. Dependencies will change as my personal preferences do.
+This a template based on [stephen's android template](https://github.com/swbain/stephens-android-template) to bootstrap android development using MVICore and RxJava. Dependencies will change as my personal preferences do.
 
 #### Current stack
 + kotlin
