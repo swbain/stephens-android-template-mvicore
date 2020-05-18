@@ -16,7 +16,7 @@ abstract class HomeModule {
     abstract class BindViewModel {
         @Binds
         @IntoMap
-        @ViewModelKey(HomeViewModel::class)
-        abstract fun bindHomeViewModel(viewModel: HomeViewModel): ViewModel
+        @ViewModelKey(HomeBinder::class)
+        abstract fun bindHomeViewModel(binder: HomeBinder): ViewModel
     }
 }
