@@ -6,7 +6,7 @@ This a template based on [stephen's android template](https://github.com/swbain/
 + kotlin
 + junit
 + [mvicore](https://badoo.github.io/MVICore/)
-+ [rxjava](https://github.com/ReactiveX/RxJava) + [rxandroid](https://github.com/ReactiveX/RxAndroid) + [rxkotlin](https://github.com/ReactiveX/RxKotlin)
++ [rxjava2](https://github.com/ReactiveX/RxJava/tree/2.x) + [rxandroid](https://github.com/ReactiveX/RxAndroid) + [rxkotlin](https://github.com/ReactiveX/RxKotlin)
 + [mockk](https://mockk.io/)
 + [androidx](https://developer.android.com/jetpack/androidx)
   - androidx.appcompat
