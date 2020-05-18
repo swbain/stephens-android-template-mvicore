@@ -3,8 +3,10 @@
 This a template based on [stephen's android template](https://github.com/swbain/stephens-android-template) to bootstrap android development using MVVM and Kotlin Coroutines. Dependencies will change as my personal preferences do.
 
 #### Current stack
-+ kotlin + coroutines
++ kotlin
 + junit
++ [mvicore](https://badoo.github.io/MVICore/)
++ [rxjava](https://github.com/ReactiveX/RxJava) + [rxandroid](https://github.com/ReactiveX/RxAndroid) + [rxkotlin](https://github.com/ReactiveX/RxKotlin)
 + [mockk](https://mockk.io/)
 + [androidx](https://developer.android.com/jetpack/androidx)
   - androidx.appcompat
